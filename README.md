@@ -1,7 +1,5 @@
 # BT4012 Kaggle Competition (e1123184)
 
-Code for my submission to the BT4012 Kaggle competition
-
 ## Files
 
 | File | What it is |
