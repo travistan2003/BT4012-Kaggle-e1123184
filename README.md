@@ -32,10 +32,6 @@ The notebook reads them from `data/` (set by `DATA_DIR` in the "Load the data" c
 2. Put the data files in `data/` as shown above.
 3. Run the notebook top to bottom, for example `jupyter execute e1123184.ipynb`, or Run All in Jupyter.
 
-The full run takes about an hour on a 2-core machine. To only regenerate the submissions, set `RUN_EXTRA = False` in
-the first settings cell: this skips the baselines, ablations and rejected models, and the run takes roughly 15 to
-20 minutes. Seeds are fixed.
-
 ## Final submissions
 
 The last code cell (Section 12) refits every model on all training data and writes both submissions I selected for
